@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "112282447251",
+    "project_id": "mycityapp-3291a",
+    "storage_bucket": "mycityapp-3291a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112282447251:android:5cad314d5a549cbfb10c66",
+        "android_client_info": {
+          "package_name": "com.example.mycityapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjkU_Aip6f6TEbAsl-7ehvy0OSbmUezVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
